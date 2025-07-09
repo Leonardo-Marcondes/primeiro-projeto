@@ -1,1 +1,3 @@
-print ('hello braw e salve para os crias')
+
+mensagem = "Boa pa nois"
+print (mensagem)
