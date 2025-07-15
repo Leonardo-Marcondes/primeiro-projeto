@@ -2,6 +2,7 @@
 mensagem = "Hello crias"
 print (mensagem)
  
-print ("sou foda")
+def saudacao(nome):
+    print(f'Seja bem vindo, {nome}!')
 
-print("minha nova branch é muito chavosa pae")
+    saudacao("cria!")
